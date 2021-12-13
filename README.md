@@ -38,6 +38,20 @@ Currently trying to master Java & C++
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)\
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
+## Databases 📄
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)\
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)\
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ## Stats ✨
-![](https://github-readme-stats.vercel.app/api?username=Rapougnac&count_private=true&show_icons=true&theme=github_dark&title_color=cae426&text_color=eebb10)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rapougnac&count_private=true&show_icons=true&theme=github_dark&title_color=cae426&text_color=eebb10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapougnac&layout=compact)
+
+## Designs tools 🎀
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)\
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+## IDEs ✏ 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)\
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)

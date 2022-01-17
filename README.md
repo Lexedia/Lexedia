@@ -47,6 +47,7 @@ Currently trying to master Java & C++
 ## Stats ✨
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rapougnac&count_private=true&show_icons=true&theme=github_dark&title_color=cae426&text_color=eebb10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapougnac&layout=compact)
+![Views](https://count.getloli.com/get/@Rapougnac?theme=gelbooru)
 
 ## Designs tools 🎀
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)\

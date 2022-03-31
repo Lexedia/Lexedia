@@ -1,4 +1,4 @@
-# Hoi !👋 I'm Rapougnac 
+# Hoi!👋 I'm Rapougnac 
 Somebody with too much time, I like writing TypeScript, Go, Dart & Python.\
 Currently trying to master Dart and Go
 

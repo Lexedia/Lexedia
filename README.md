@@ -11,3 +11,5 @@ I don't talk much, so there's not a lot of things here, but hey, at least I wrot
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapougnac&layout=compact)
 ![Views](https://count.getloli.com/get/@Rapougnac?theme=gelbooru)
 </details>
+
+<sub>she/her/aer</sub>

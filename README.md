@@ -12,4 +12,4 @@ I don't talk much, so there's not a lot of things here, but hey, at least I wrot
 ![Views](https://count.getloli.com/get/@Rapougnac?theme=gelbooru)
 </details>
 
-<sub>she/her/aer</sub>
+

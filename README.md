@@ -5,9 +5,8 @@ I don't talk much, so there's not a lot of things here, but hey, at least I wrot
 
 
 <details>
-  <summary>Whoo some stats that say things!</summary>
-
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=Rapougnac&count_private=true&show_icons=true&theme=github_dark&title_color=cae426&text_color=eebb10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapougnac&layout=compact) -->
+  <summary>click for a cookie</summary>
+<sub>jk</sub>
+  
 ![Views](https://count.getloli.com/get/@Rapougnac?theme=gelbooru)
 </details>
